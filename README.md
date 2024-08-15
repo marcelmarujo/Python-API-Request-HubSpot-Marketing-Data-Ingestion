@@ -20,4 +20,4 @@ O objetivo do projetinho foi coletar, validar, processar e armazenar dados de ma
 
 - **Python**: Request/Coleta, processamento e análise de dados.
 - **API**: Pública HubSpot com os dados de marketing.
-- **SQL**: Banco de dados SQLite utilizado (Sem custos, rs).
+- **SQL**: Banco de dados SQLite utilizado (Sem custos, rs);
