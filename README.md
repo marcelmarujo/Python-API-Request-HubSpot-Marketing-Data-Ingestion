@@ -2,7 +2,7 @@
 
 O objetivo do projetinho foi coletar, validar, processar e armazenar dados de marketing usando uma API pública. Este projeto inclui etapas de manipulação e tratamento de dados para recriar um cenário 'cotidiano' na engenharia de dados.
 
-## Estrutura do Projeto
+## Estrutura do Projeto:
 
 ### 1. Coleta de Dados da API
 - **Detalhes**: Utiliza uma API para buscar informações relacionadas a campanhas de marketing.
