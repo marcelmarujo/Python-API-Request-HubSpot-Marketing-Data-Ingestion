@@ -1,6 +1,6 @@
 # Projeto: Data Engineering w/ HubSpot Marketing API
 
-O objetivo do projetinho foi coletar, validar, processar e armazenar dados de marketing usando uma API pública. Este projeto inclui etapas de manipulação e tratamento de dados para recriar um cenário 'cotidiano' na engenharia de dados.
+Projeto criado para coletar, validar, processar e armazenar dados de marketing usando uma API pública. Este projeto inclui etapas de manipulação e tratamento de dados para recriar um cenário 'cotidiano' na engenharia de dados.
 
 ## Estrutura do Projeto:
 
